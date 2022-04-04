@@ -1,6 +1,6 @@
 {
   "name": "happain-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Happain自用的脚手架工具",
   "main": "./bin/happain.js",
   "bin": {

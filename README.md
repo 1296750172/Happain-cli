@@ -1,8 +1,9 @@
 ## 请用全局命令安装
 
-## 发布命令
+## 发布流程
 
-- **npm publish**
+- 先修改 package.json 里面的 version 版本号
+- 执行**npm publish**命令
 
 ## **npm i -g happain-cli**
 
