@@ -12,7 +12,8 @@ const download = require('download-git-repo');
 const temDict = [
   { value: 0, name: 'happain-vue3-webpack-base', url: "https://gitee.com/xiaozeguai/happain-vue3-webpack-base.git" },
   { value: 1, name: 'happain-vue3-vite-base', url: "https://gitee.com/xiaozeguai/happain-vue3-vite-base.git" },
-  { value: 2, name: 'happain-electron-base', url: "https://gitee.com/xiaozeguai/happain-eletron-base.git" }
+  { value: 2, name: 'happain-electron-base', url: "https://gitee.com/xiaozeguai/happain-eletron-base.git" },
+  { value: 3, name: 'happain-scrapy-base', url: "https://gitee.com/xiaozeguai/happain-scrapy-cli.git" }
 ]
 
 
