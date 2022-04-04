@@ -2,8 +2,11 @@
 
 ## 发布流程
 
+- 先查看仓库源是什么 一般是淘宝源 npm config get registry
+- https://registry.npm.taobao.org/
+- 切换淘宝源 npm config set registry http://registry.npmjs.org/
 - 先修改 package.json 里面的 version 版本号
-- 执行**npm publish**命令
+- 执行**npm publish --registry http://registry.npmjs.org/**命令
 
 ## **npm i -g happain-cli**
 
